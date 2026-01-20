@@ -1,0 +1,55 @@
+body {
+    background-color: white;
+}
+
+
+h1 {
+    color: #ffffff;
+    border: 15px solid black;
+    border-radius: 10px;
+    text-align: center;
+    background: black;
+    padding-top: 50px;
+    letter-spacing: -2px;
+
+}
+
+p {
+    color: black;
+    text-align: justify;
+    text-indent: 60px;
+    word-spacing: 15px;
+
+}
+
+.exemplo-back {
+    height: 300px;
+    background-color: gray;
+    background-image: url("../background.jpg");
+    background-size: cover;
+    margin-bottom: 100px;
+
+}
+
+.botao {
+    margin-left: 33%;
+    background: green;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.botao:hover {
+    background: blue;
+}
+
+.teste {
+    max-width: 800px;
+    height: 150px;
+    background: cyan;
+}

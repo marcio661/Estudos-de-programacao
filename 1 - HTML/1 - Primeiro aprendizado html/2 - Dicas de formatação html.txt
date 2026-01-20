@@ -1,0 +1,8 @@
+Negrito: <b>
+Linha divisória: <hr>
+Pular uma linha: <br>
+Deixar pequeno: <small>
+Riscado: <del> ou <strike> (<strike> está em decaimento)
+Texto na parte superior: <sup>
+Texto na parte inferior: <sub>
+Marcação (amarela): <mark>
